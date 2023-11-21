@@ -115,7 +115,7 @@
     <dependency>
       <groupId>com.atlassian.commonmark</groupId>
       <artifactId>commonmark-ext-heading-anchor</artifactId>
-      <version>0.15.2</version>
+      <version>0.17.0</version>
     </dependency>
     <!--表格的扩展部分 如果markdown里有表格需要这个扩展-->
     <dependency>
